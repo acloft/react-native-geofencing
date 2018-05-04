@@ -30,6 +30,7 @@ export default class GeoFencing extends React.Component {
     };
     this.failChallenge = this.failChallenge.bind(this);
     this.beingTimingChallenge = this.beingTimingChallenge.bind(this);
+    this.acceptChallenge = this.acceptChallenge.bind(this)
     this.start = 0;
   }
 
