@@ -1,3 +1,5 @@
-# react-native-geofencing
+# react-native-geofencing-sample
 
-Geofence test to time user staying in boundary area for set amount of time using react-native-geo-fencing 
+Example react native component that utilizes a geofence to time user staying in boundary area for set amount of time using <a href="react-native-geo-fence
+">react-native-geo-fence
+ </a>
